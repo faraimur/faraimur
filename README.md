@@ -2,7 +2,7 @@
 
 **IT Systems Professional** — Microsoft 365 · Active Directory · Windows Server · Python · PowerShell
 
-Based in Zimbabwe. Five years supporting infrastructure and cloud services across multi-site environments in Zimbabwe, Zambia, and Malawi. Currently consulting, building, and documenting.
+Based in Southern Africa. Five years supporting infrastructure and cloud services across multi-site environments in Zimbabwe, Zambia, and Malawi. Currently consulting, building, and documenting.
 
 ---
 
